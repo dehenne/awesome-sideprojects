@@ -57,6 +57,7 @@ We group projects into random categories that have absolutely nothing to do with
 - [Leoline](https://leoline.fun) - Magical stories for curious kids
 - [Latwy](https://latwy.co) - Track your finances in Notion automatically.
 - [supastarter](https://supastarter.dev) - The production-ready and scalable SaaS starter kit for Next.js, Nuxt and SvelteKit
+- [NameScore](https://namescore.io?ref=awesome-sideprojects) - NameScore checks names for trademark conflicts, domain availability, and linguistic quality - all in one report.
 
 ## 🍕 Pizza Archaeology
 
